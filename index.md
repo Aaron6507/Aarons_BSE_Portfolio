@@ -64,13 +64,13 @@ void loop() {
 # Bill of Materials
  
 | **Part** | **Note** | **Price** | **Link** |
-|:--:|:--:|:--:|:--:|
+
 | 4 OSOYOO Gear Motors  | Powers the wheels  | $5.99 | <a href="https://osoyoo.store/collections/parts-for-blue-mecanum-wheel-robotic-car-kit-for-arduino-mega2560-model-2021006601/products/tt-motor-with-wire-and-connection-for-arduino-v2-0-robot-carmodel-2016013200m-1?variant=31648986857583"> Link </a> |
-|:--:|:--:|:--:|:--:|
+
 | 1 OSOYOO Acrylic Cassis | Used as a base for other OSOYOO parts | $7.99 | <a href="https://osoyoo.store/collections/parts-for-blue-mecanum-wheel-robotic-car-kit-for-arduino-mega2560-model-2021006601/products/model-2021006600-blue-mecanum-wheel-robotic-car-acrylic-chassis?variant=40715880333423"> Link </a> |
-|:--:|:--:|:--:|:--:|
+
 | 4 OSOYOO Metal Motor Holders  | To be able to attach the motor to the chassis | $19.96 | <a href="https://osoyoo.store/collections/parts-for-blue-mecanum-wheel-robotic-car-kit-for-arduino-mega2560-model-2021006601/products/metal-motor-holders-with-screws-for-tt-motor-model-2017010900?variant=32204556206191"> Link </a> |
-|:--:|:--:|:--:|:--:|
+
 | 4 OSOYOO Mecanum Wheels | Able to move the robot around in any direction | $19.99 | <a href="https://osoyoo.store/collections/parts-for-blue-mecanum-wheel-robotic-car-kit-for-arduino-mega2560-model-2021006601/products/model-2021006600-blue-mecanum-wheels-60mm?variant=40715901698159"> Link </a> |
 | 1 OSOYOO Mega2560 Board and Cable  | Being able to program the robot with Arduino | $31.99 | <a href="https://osoyoo.store/collections/parts-for-blue-mecanum-wheel-robotic-car-kit-for-arduino-mega2560-model-2021006601/products/copy-of-osoyoo-main-board-fully-compatible-with-arduino-mega2560?variant=40878141964399"> Link </a> |
 | 1 OSOYOO Uart Wifi Shield | A wifi/Bluetooth extension used for Arduino  | $12.99 | <a href="https://osoyoo.store/collections/parts-for-blue-mecanum-wheel-robotic-car-kit-for-arduino-mega2560-model-2021006601/products/esp8266-wifi-shiled-osoyoo-wifi-internet-of-things-learning-kit-for-arduino-uno?variant=31955252215919"> Link </a> |
@@ -87,10 +87,10 @@ void loop() {
 | Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 | Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 
-# Other Resources/Examples
+<!---# Other Resources/Examples
 One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
 - [Example 1](https://trashytuber.github.io/YimingJiaBlueStamp/)
 - [Example 2](https://sviatil0.github.io/Sviatoslav_BSE/)
 - [Example 3](https://arneshkumar.github.io/arneshbluestamp/)
 
-To watch the BSE tutorial on how to create a portfolio, click here.
+To watch the BSE tutorial on how to create a portfolio, click here.-->
