@@ -33,6 +33,7 @@ For your second milestone, explain what you've worked on since your previous mil
 
 <!---# First Milestone
 For your first milestone, describe what your project is and how you plan to build it. You can include:
+My project is called the Omni wheel robot and its able to move in any directions. The Arcrylic chassis is the base in which all the different componets come togther in order to create the robot. It can move even move horizontally due to the specific design of the wheels and the motors will help the wheel move. To connect these pieces together, you need some metal holders to attach the motors to the chassis and then use the motor flexible   
 - An explanation about the different components of your project and how they will all integrate together
 - Technical progress you've made so far
 - Challenges you're facing and solving in your future milestones
