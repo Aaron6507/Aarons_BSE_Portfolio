@@ -85,8 +85,6 @@ void loop() {
 | 1 OSOYOO Ultrasonic Sensor and Mount Holder | It is able to make corrections with directions due to it's focused sensors | $9.99 | <a href="https://osoyoo.store/collections/parts-for-blue-mecanum-wheel-robotic-car-kit-for-arduino-mega2560-model-2021006601/products/ultrasonic-sensor-and-ultrasonic-sensor-holder?variant=32077243809903"> Link </a> |
 | 1 OSOYOO Bluetooth Module | Able to connect your phone to the robot and manually control it | $9.99 | <a href="| 1 OSOYOO Ultrasonic Sensor and Mount Holder | It is able to make corrections with directions due to it's focused sensors | $9.99 | <a href="https://osoyoo.store/products/hc02-bluetooth-module-for-osoyoo-robot-car?variant=22561056948342"> Link </a> |"> Link </a> |
 
-
-
 <!---# Other Resources/Examples
 One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
 - [Example 1](https://trashytuber.github.io/YimingJiaBlueStamp/)
