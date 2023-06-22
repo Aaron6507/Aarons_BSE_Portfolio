@@ -32,6 +32,7 @@ For your second milestone, explain what you've worked on since your previous mil
 <!---iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen--><!---/iframe-->
 
 # First Milestone
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1yABNRUPLds" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 My intensive project is called the Omni wheel robot and it can move in any direction. It can move in every direction possible and the most impressive movement to me is moving horizontally due to the specific design of the wheels. The Acrylic chassis is the base in which all the different components come together to create the robot. We first need to work on the bottom part of the chassis. We need to connect the four motors and to do that, you need to screw in some metal holders to attach the motors to the bottom chassis. After that, we first need to screw in the Model Y Board 2.0 onto the chassis, then we can attach the motor's 2 pins jumper wires to the correct spaces on the board. We then use plastic screws to attach the tracking sensor module to the front of the chassis. Next, we screw six copper on the bottom chassis. We then focus on working on the top part of the chassis and attach the Mega2560 board to it by screwing it. We then add on the uart wifi shield and connect to the Mega board as well as screwing on the servo motor on the bottom of the top chassis piece. In the same way, we attach two IR obstacle avoidance sensors on the top part of the chassis. After this, we use jumper wires to connect the boards on the bottom chassis to the board on the top chassis going through the holes. We can begin working on a separate piece where it goes between the two chassis parts. The piece requires that you attach 2 LED lights to a mount by screwing it in. Then, we can finally screw the top and bottom pieces of the chassis with the LED mount in the middle with another mount in the back of the robot. We add more jumper wires to connect pieces of the Model Y Board 2.0 and the uart wifi board. Finally, we use the motor flexible couplers to attach the wheel to the motor that is attached to the bottom chassis and then screw the wheel in.
 
@@ -41,11 +42,7 @@ Some challenges that I faced were reading the schematic and following the video 
 
 There are still some other parts to install but I managed to install the base components of the robot that were necessary for it to run. I will continue to follow the other lessons and install the parts that those lessons say to do.
 
-
-
 <!---**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**-->
-
-<!---iframe width="560" height="315" src="https://www.youtube.com/embed/CaCazFBhYKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen--><!---/iframe-->
 
 <!---# Schematics 
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser.--> 
