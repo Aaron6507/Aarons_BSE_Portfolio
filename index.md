@@ -21,7 +21,20 @@ For your final milestone, explain the outcome of your project. Key details to in
 <!---iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen--><!---/iframe-->
 
 <!---# Second Milestone
-For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5VZBuXoUD5s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+I went to the OSOYOO website and searched up my project which was the OmniWheel Robot. I then downloaded the rest of the remaining codes that were required to perform every
+function of the robot. One was to use the UltraSonic sensor and make the robot drive on its own with the sensor correcting its path. The one after that was to make the sensor which was the bumper to only follow the color, black. So then, the two IR sensors were able to detect objects in front and stop and reverse. After that the really important one was the one that allowed you to control the car with bluetooth via phone. You also have to install an app so you connect the robot to the app. After that, it was all under my control and it was fun. This will help with my final milestone as the pavement is mostly white and the sensor on the bumper will need to change to follow the color white.
+
+Something surprising was the many things you could do with parts that are on the robot. I may have downloaded prewritten code but that doesn't mean I can't write code of my own. Also on how much an arduino board is able to process and act on code. Another thing that was surprising is how easily you're able to forget things that you did with your jumper wires. 
+
+I was able to overcome a challenge during my recording session of my second milestone. The challenge was that the code wasn't working even though the robot responded to it and the bluetooth connection was stable. So I inputted the code again and everything showed that it was fine except one thing. It wasn't making a noise when the engine turned on. This told me that the wires had to be in the wrong spot and I checked and they were. After that, I was able to record my second milestone video.
+
+I will need to learn how arduino works in order to get the basis down so I can program my sensor to follow the color white. Also, research if my sensor is able to change colors since it's an OSOYOO component so it might be built in like that. I will also need to come up with second and third milestone ideas just in case it isn't possible. Furthermore, I need to control my time management better.
+
+
+
+
 - Technical details of what you've accomplished and how they contribute to the final goal
 - What has been surprising about the project so far
 - Previous challenges you faced that you overcame
@@ -29,7 +42,6 @@ For your second milestone, explain what you've worked on since your previous mil
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**-->
 
-<!---iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen--><!---/iframe-->
 
 # First Milestone
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1yABNRUPLds" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
