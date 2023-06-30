@@ -9,16 +9,16 @@ Aaron's Tv B Gone
 
 ![Headstone Image](logo.svg)-->
   
-<!---# Final Milestone
-For your final milestone, explain the outcome of your project. Key details to include are:
-- What you've accomplished since your previous milestone
-- What your biggest challenges and triumphs were at BSE
-- A summary of key topics you learned about
-- What you hope to learn in the future after everything you've learned at BSE
+# Final Milestone
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Me_hkOmvgQM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**-->
+I was able to recalibrate my 5 IR sensors in the front of my robot so that it would be able to track the color black better. I also recalibrated my left and right IR sensors that are used to detect objects and make turns based on which IR sensor is activated. I also recalibrated my ultrasonic sensor that is mounted on a servo motor that can make 180 degree turns. I recalibrated theIR this by screwdriving an adjustment part on the board of the IR sensor. For the ultrasonic sensor, I screwed it off the servo motor and reattached it to the servo motor until the ultrasonic sensor faced towards the front of the robot. After that, I swapped the batteries as it provided better power for the motors to work and the wheels to move.
 
-<!---iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen--><!---/iframe-->
+Some things that I struggled with were building and recording because when I was building my robot, I forgot to take a plastic wrap off the chassis and when I did, it made my nuts on my screws be tightened with the pieces in the chassis attached to it. As for the recording process, I had some trouble running the program due to the cloth placed on the table. It also took really long as more small problems arose. Like, my sensors bugging and needing to recalibrate them again. Some triumphs were that I was the first one to have a working starting project which was the Tv B Gone. Also, I learned how to solder wires together and desolder stuff so in the future, those skills will be handy.
+
+One key topic I learned was how to use CAD to create a 3d model and 3d print it. Another key topic I learned was how to use arduino and to use its helpful library to set up some base code. Also, using the arduino to use a bluetooth connection. Furthermore, a key topic about IR sensors is that they're only able to detect the color white and black but only track the black color using infrared radiation.
+
+Something that I want to take away and learn at a future date is what field of engineering I want to focus in. I also want to learn more about coding and what possibilities it can create. I also want to learn more about how each circuit board works and what parts can be attached to it. I wanna know how power works in engineering and what are things you can do to manipulate it.
 
 # Second Milestone
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5VZBuXoUD5s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -67,7 +67,6 @@ void loop() {
 # Bill of Materials
  
 | **Part** | **Note** | **Price** | **Link** |
-
 | 4 OSOYOO Gear Motors  | Powers the wheels  | $5.99 | <a href="https://osoyoo.store/collections/parts-for-blue-mecanum-wheel-robotic-car-kit-for-arduino-mega2560-model-2021006601/products/tt-motor-with-wire-and-connection-for-arduino-v2-0-robot-carmodel-2016013200m-1?variant=31648986857583"> Link </a> |
 | 1 OSOYOO Acrylic Cassis | Used as a base for other OSOYOO parts | $7.99 | <a href="https://osoyoo.store/collections/parts-for-blue-mecanum-wheel-robotic-car-kit-for-arduino-mega2560-model-2021006601/products/model-2021006600-blue-mecanum-wheel-robotic-car-acrylic-chassis?variant=40715880333423"> Link </a> |
 | 4 OSOYOO Metal Motor Holders  | To be able to attach the motor to the chassis | $19.96 | <a href="https://osoyoo.store/collections/parts-for-blue-mecanum-wheel-robotic-car-kit-for-arduino-mega2560-model-2021006601/products/metal-motor-holders-with-screws-for-tt-motor-model-2017010900?variant=32204556206191"> Link </a> |
