@@ -20,7 +20,7 @@ For your final milestone, explain the outcome of your project. Key details to in
 
 <!---iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen--><!---/iframe-->
 
-<!---# Second Milestone
+# Second Milestone
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5VZBuXoUD5s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 I went to the OSOYOO website and searched up my project which was the OmniWheel Robot. I then downloaded the rest of the remaining codes that were required to perform every
@@ -31,17 +31,6 @@ Something surprising was the many things you could do with parts that are on the
 I was able to overcome a challenge during my recording session of my second milestone. The challenge was that the code wasn't working even though the robot responded to it and the bluetooth connection was stable. So I inputted the code again and everything showed that it was fine except one thing. It wasn't making a noise when the engine turned on. This told me that the wires had to be in the wrong spot and I checked and they were. After that, I was able to record my second milestone video.
 
 I will need to learn how arduino works in order to get the basis down so I can program my sensor to follow the color white. Also, research if my sensor is able to change colors since it's an OSOYOO component so it might be built in like that. I will also need to come up with second and third milestone ideas just in case it isn't possible. Furthermore, I need to control my time management better.
-
-
-
-
-- Technical details of what you've accomplished and how they contribute to the final goal
-- What has been surprising about the project so far
-- Previous challenges you faced that you overcame
-- What needs to be completed before your final milestone 
-
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**-->
-
 
 # First Milestone
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1yABNRUPLds" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
