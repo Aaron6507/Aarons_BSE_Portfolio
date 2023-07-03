@@ -1,5 +1,5 @@
-Aaron's Tv B Gone 
-<!---Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails!-->
+Aaron's OmniWheel Robot 
+The Omniwheel robot is a robot that can move in any direction if you code it that way. The assembly is fun as you get to screw and attach a lot of wires to a arduino board. However, be carefull as a wrong placemwnt in the order of the wire will not make your program work. You will be able to install files with programs and fiddle with it as you like. 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
@@ -96,10 +96,4 @@ void loop() {
 
 Some challenges that I faced was a soldering problem and user error. I soldered this LED in the wrong orientation and it took a while to desolder the LED. However this still hadn’t worked and I was asked to bring it home to test it. I did and it didn’t work, so the next day I was given a new starter project. After this, I was bummed it didn't work and started to work on the new starter project but while I was reading the instructions, I realized a part labeled IC had two parts to it. The IC socket and the IC itself, with this new knowledge acquired, I was able to put a missing part on the TV B Gone. The green LED started blinking once I did which it had never done before and once again I was given permission to test it out at home. It actually worked and I was the first one in my class to make a working TV B Gone. This definitely left a lesson for me and that was to read the instructions very carefully.
 
-<!---# Other Resources/Examples
-One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
-- [Example 1](https://trashytuber.github.io/YimingJiaBlueStamp/)
-- [Example 2](https://sviatil0.github.io/Sviatoslav_BSE/)
-- [Example 3](https://arneshkumar.github.io/arneshbluestamp/)
 
-To watch the BSE tutorial on how to create a portfolio, click here.-->
